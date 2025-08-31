@@ -1,0 +1,28 @@
+Creating engine...
+Command line: "C:\Users\tibig\Documents\game engines\LumixEngine\scripts\tmp\vs2022\bin\RelWithDebInfo\app.exe" -window -world maps/demo/demo.unv
+OS Version: 6.2 (9200)
+Page size: 4096
+Number of processors: 8
+Allocation granularity: 65536
+Engine created.
+NVML loaded
+NVML device: NVIDIA GeForce RTX 2060
+Max GPU memory clock: 7001 MHz
+Max GPU graphics clock: 2145 MHz
+Plugin physics loaded
+Plugin renderer loaded
+Plugin animation loaded
+Plugin audio loaded
+Plugin navigation loaded
+Plugin gui loaded
+Plugin lua_script loaded
+Plugin csharp_script loaded
+Plugin jolt loaded
+Plugin script loaded
+Error: Failed to deserialize project file
+gpu: shaders/common.hlsli(336,14-96): warning X4114: Literal floating-point value out of integer range for conversion: -1.#INF00
+shaders/common.hlsli(336,14-96): warning X4114: Literal floating-point value out of integer range for conversion: -1.#INF00
+shaders/common.hlsli(336,14-96): warning X4114: Literal floating-point value out of integer range for conversion: -1.#INF00
+
+gpu: shaders/water.hlsl(246,22-57): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+

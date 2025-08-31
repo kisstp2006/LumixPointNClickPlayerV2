@@ -1,0 +1,338 @@
+Creating engine...
+Working directory: C:\Users\TIGames\Documents\engines\cplusplus\LumixEngine\data
+Command line: "C:\Users\TIGames\Documents\engines\cplusplus\LumixEngine\scripts\tmp\vs2022\bin\RelWithDebInfo\studio.exe" 
+OS Version: 6.2 (9200)
+Page size: 4096
+Number of processors: 8
+Allocation granularity: 65536
+Engine created.
+NVML loaded
+NVML device: NVIDIA GeForce RTX 2060
+Max GPU memory clock: 7001 MHz
+Max GPU graphics clock: 2145 MHz
+Plugin physics loaded
+Plugin renderer loaded
+Plugin animation loaded
+Plugin audio loaded
+Plugin navigation loaded
+Plugin gui loaded
+Plugin lua_script loaded
+Plugin jolt loaded
+Plugin js_script loaded
+Plugin proproperty loaded
+Plugin script loaded
+Current directory: C:\Users\TIGames\Documents\engines\cplusplus\LumixEngine\data
+Project file not found
+Initializing editor...
+JS debugger listening
+Studio plugin physics loaded
+Studio plugin renderer loaded
+Studio plugin animation loaded
+Studio plugin audio loaded
+Studio plugin navigation loaded
+Studio plugin gui loaded
+Studio plugin lua_script loaded
+Studio plugin jolt loaded
+Studio plugin js loaded
+Studio plugin visual_script_editor loaded
+Studio plugin spline_editor loaded
+Studio plugin signal_editor loaded
+Loading settings...
+Init took 0.851531 s
+1.316455 s since process started
+Asset scan took 0.060423 seconds.
+Project file not found
+Asset scan took 0.014787 seconds.
+Loading world maps/terrain_test/terrain_test.unv...
+Parsing world...
+World parsed in 0.000730 seconds
+gpu: shaders/terrain.hlsl(86,19): warning X4000: use of potentially uninitialized variable (select)
+
+Loading world maps/navigation_stress_test/navigation_stress_test.unv...
+Parsing world...
+World parsed in 0.004040 seconds
+Clamping bone mixamorig:LeftForeArm in models/ybot/walk right.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/walk right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk right.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk forward.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk forward.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk forward.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk forward.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk forward.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk forward.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk forward.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk forward.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/walk left.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/walk left.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk left.fbx
+Clamping bone mixamorig:LeftShoulder in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching right.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk forward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk forward left.fbx
+Clamping bone mixamorig:LeftShoulder in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching left.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching forward.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching forward left.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching forward right.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/walk backward.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/walk backward.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/walk backward.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk backward left.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk backward.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk backward.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk backward.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk backward.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk backward.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk backward.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk backward.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk backward.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk backward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching backward left.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching backward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/walk crouching backward.fbx
+Clamping bone mixamorig:LeftShoulder in models/ybot/run forward.fbx
+Clamping bone mixamorig:LeftArm in models/ybot/run forward.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run forward.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run forward.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run forward.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run forward.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/run forward.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run forward.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run forward.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run forward.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run forward.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run right.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/run right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run right.fbx
+Clamping bone mixamorig:LeftShoulder in models/ybot/run left.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run left.fbx
+Clamping bone mixamorig:RightArm in models/ybot/run left.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/run left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run left.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run forward right.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/run forward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run forward right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run forward right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run forward right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run forward right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run forward right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run forward right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run forward right.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run backward right.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run backward right.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run backward right.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run backward right.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run backward right.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run backward right.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run backward right.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run backward right.fbx
+Clamping bone mixamorig:Spine in models/ybot/run forward left.fbx
+Clamping bone mixamorig:LeftArm in models/ybot/run forward left.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run forward left.fbx
+Clamping bone mixamorig:LeftArm in models/ybot/run backward.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run backward.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run forward left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run forward left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run forward left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run forward left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run forward left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run forward left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run forward left.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/run backward.fbx
+Clamping bone mixamorig:RightArm in models/ybot/run backward.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/run backward.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run backward.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run backward.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run backward.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/run backward.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run backward.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run backward.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run backward.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run backward.fbx
+Clamping bone mixamorig:LeftArm in models/ybot/run backward left.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/run backward left.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/run backward left.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/run backward left.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/run backward left.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/run backward left.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/run backward left.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/run backward left.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/run backward left.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/run backward left.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/run backward left.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/run backward left.fbx
+Clamping bone mixamorig:LeftShoulder in models/ybot/jump up.fbx
+Clamping bone mixamorig:LeftArm in models/ybot/jump up.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/jump up.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/jump up.fbx
+Clamping bone mixamorig:RightForeArm in models/ybot/jump up.fbx
+Clamping bone mixamorig:RightHand in models/ybot/jump up.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/jump up.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/jump up.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/jump up.fbx
+Clamping bone mixamorig:LeftToeBase in models/ybot/jump up.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/jump up.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/jump up.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/jump up.fbx
+Clamping bone mixamorig:RightToeBase in models/ybot/jump up.fbx
+Clamping bone mixamorig:Hips in models/ybot/jump down.fbx
+Clamping bone mixamorig:LeftShoulder in models/ybot/jump down.fbx
+Clamping bone mixamorig:LeftArm in models/ybot/jump down.fbx
+Clamping bone mixamorig:LeftForeArm in models/ybot/jump down.fbx
+Clamping bone mixamorig:LeftHand in models/ybot/jump down.fbx
+Clamping bone mixamorig:RightShoulder in models/ybot/jump down.fbx
+Clamping bone mixamorig:RightArm in models/ybot/jump down.fbx
+Clamping bone mixamorig:LeftUpLeg in models/ybot/jump down.fbx
+Clamping bone mixamorig:LeftLeg in models/ybot/jump down.fbx
+Clamping bone mixamorig:LeftFoot in models/ybot/jump down.fbx
+Clamping bone mixamorig:RightUpLeg in models/ybot/jump down.fbx
+Clamping bone mixamorig:RightLeg in models/ybot/jump down.fbx
+Clamping bone mixamorig:RightFoot in models/ybot/jump down.fbx
+Error: requestMoveTarget failed, entity 475
+Error: requestMoveTarget failed, entity 709
+Error: requestMoveTarget failed, entity 740
+Error: requestMoveTarget failed, entity 428
+Error: requestMoveTarget failed, entity 619
+Error: requestMoveTarget failed, entity 453
+Error: requestMoveTarget failed, entity 602
+Error: requestMoveTarget failed, entity 616
+Error: requestMoveTarget failed, entity 489
+Error: requestMoveTarget failed, entity 613
+Error: requestMoveTarget failed, entity 648
+Error: requestMoveTarget failed, entity 480
+Error: requestMoveTarget failed, entity 672
+Error: requestMoveTarget failed, entity 420
+Error: requestMoveTarget failed, entity 527
+Error: requestMoveTarget failed, entity 571
+Parsing world...
+World parsed in 0.054078 seconds
+Loading world maps/instanced_models/instanced_models.unv...
+Parsing world...
+World parsed in 0.000491 seconds
+gpu: shaders/instancing.hlsl(224,12): warning X4000: use of potentially uninitialized variable (idx)
+
+gpu: shaders/instancing.hlsl(101,41): warning X4000: use of potentially uninitialized variable (getLOD)
+
+gpu: shaders/instancing.hlsl(101,41): warning X4000: use of potentially uninitialized variable (getLOD)
+
+Loading world maps/main/main.unv...
+Parsing world...
+World parsed in 0.000342 seconds
+Parsing world...
+World parsed in 0.004838 seconds
+World created.

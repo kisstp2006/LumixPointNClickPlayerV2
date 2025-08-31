@@ -1,0 +1,5 @@
+
+lod_count = 1
+root_motion_flags = 2
+skeleton = "models/ybot/ybot.fbx"
+lod0_distance = 10000.000000

@@ -1,0 +1,2 @@
+shader "/shaders/editor_icon.hlsl"
+texture "/editor/models/terrain_icon.tga"
